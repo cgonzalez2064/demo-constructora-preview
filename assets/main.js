@@ -1419,6 +1419,8 @@
   mqReduce.addEventListener && mqReduce.addEventListener('change', applyA11y);
 
   /* ---------- Reveal on scroll (content is visible without JS) ---------- */
+  /* Nothing fades in on scroll: the hero has its own entrance and every section is simply there. */
+  Array.prototype.forEach.call(document.querySelectorAll('.reveal'), function(el){ el.classList.remove('reveal'); });
   var revealEls = document.querySelectorAll('.reveal');
   if ('IntersectionObserver' in window && !reduceMotion){
     root.classList.add('js-reveal');
@@ -1753,7 +1755,7 @@
   });
 
   /* ---------- Gentle parallax on the large photos (transform only, rAF-batched) ---------- */
-  var parallaxEls = Array.prototype.slice.call(document.querySelectorAll('[data-parallax]'));
+  var parallaxEls = []; /* the page scrolls plainly: no parallax on a service site */
   var mqWide = window.matchMedia('(min-width: 900px)');
   var plxTicking = false;
   function parallax(){

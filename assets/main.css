@@ -303,7 +303,7 @@ html.has-sheet { overflow: hidden; }
 
 /* ---------- Hero ---------- */
 .hero { position: relative; padding: 28px 0 40px; margin-top: calc(var(--header-h) * -1); padding-top: calc(var(--header-h) + 28px); overflow: hidden; isolation: isolate; }
-.hero:focus { outline: none; }
+
 .hero-bg { position: absolute; inset: 0; z-index: -1; background: var(--grad-soft); }
 .orb { position: absolute; border-radius: 50%; opacity: .55; }
 .orb-a { width: 60vmax; height: 60vmax; left: -25vmax; top: -30vmax; background: radial-gradient(circle, #b8ece2 0%, transparent 65%); }
@@ -1314,16 +1314,6 @@ html.a11y-contrast .site-footer { background: #fff; color: #000; }
 html.a11y-contrast .site-footer::before { display: none; }
 html.a11y-contrast .site-footer a, html.a11y-contrast .site-footer .footer-h, html.a11y-contrast .site-footer .brand-light .brand-name, html.a11y-contrast .site-footer .footer-bottom { color: #000; }
 
-/* Scroll progress line (Profesional and Premium), CSS only where supported. */
-@supports (animation-timeline: scroll()) {
-  @media (prefers-reduced-motion: no-preference) {
-    html.pkg-profesional body::before, html.pkg-premium body::before {
-      content: ""; position: fixed; left: 0; top: 0; z-index: 120; width: 100%; height: 3px; transform-origin: 0 50%; transform: scaleX(0);
-      background: var(--grad-wing); animation: lumen-progress linear both; animation-timeline: scroll(root);
-    }
-  }
-}
-@keyframes lumen-progress { to { transform: scaleX(1); } }
 
 /* ==========================================================================
    Construction palettes (v17). Same four classes, construction moods:
@@ -1711,3 +1701,43 @@ html:not(#o) .action-bar { border-radius: var(--radius); box-shadow: 0 1px 0 var
 html:not(#o) .action-bar a { border-radius: var(--radius-sm); }
 @media (max-width: 899px) { html:not(#o) .hero-photo.p1 img { object-position: 50% 72%; } }
 html:not(#o) .map-placeholder .brand-mark, html:not(#o) .map-text .brand-mark { border-radius: var(--radius); box-shadow: none; }
+
+/* ==========================================================================
+   Obra layer, taste pass (v20): a service site, so photographs lead and
+   the grounds stay flat. One eyebrow (the hero), no captions under images,
+   no fade-in per section; the hero is the one entrance. Linked cards lift
+   2px, photos zoom 1.03, buttons press.
+   ========================================================================== */
+html:not(#o) .section .eyebrow { display: none; }
+html:not(#o) .about-art figcaption { display: none; }
+html:not(#o) .hero-bg::before, html:not(#o) .hero-bg::after { content: none; display: none; }
+html:not(#o) .hero-photo.p1::after { content: none; }
+html:not(#o) .cta-band .cta-inner { background-image: none; }
+html:not(#o) .doctor-card, html:not(#o) .quick-tile a, html:not(#o) .map-card, html:not(#o) .pkg-card {
+  transition: transform 240ms var(--obra-ease), border-color 240ms var(--obra-ease);
+}
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  html:not(#o) .doctor-card:hover, html:not(#o) .quick-tile a:hover, html:not(#o) .map-card:hover, html:not(#o) .pkg-card:hover { transform: translateY(-2px); box-shadow: none; }
+  html:not(#o) .area-card:hover .area-photo img, html:not(#o) .doctor-card:hover .doc-avatar.has-photo img,
+  html:not(#o) .services-grid .service-card:hover .service-photo, html:not(#o) .about-art.has-photo:hover .about-photo { transform: scale(1.03); }
+}
+html:not(#o) .btn:active { transform: translateY(1px); transition-duration: 80ms; }
+html:not(#o) .maternity, html:not(#o) .appointment, html:not(#o) .labprep, html:not(#o) .ins-main { background: var(--bg-tint); }
+html:not(#o) .service-art, html:not(#o) .profile-photo { background: var(--bg-tint); }
+/* Taste pass: no scroll-driven motion on a service page; visible focus; body-strength fine print. */
+html:not(#o) .hero:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+html:not(#o) .quick-tile a:focus-visible { outline: 2px solid var(--accent); outline-offset: -4px; }
+html:not(#o) .packages-foot p, html:not(#o) .bag-head p.muted { color: var(--text); }
+/* The one entrance: the hero settles in once on load. */
+@media (prefers-reduced-motion: no-preference) {
+  html:not(#o) .hero-copy > * { animation: obra-rise 640ms var(--obra-ease) both; }
+  html:not(#o) .hero-copy > :nth-child(2) { animation-delay: 60ms; }
+  html:not(#o) .hero-copy > :nth-child(3) { animation-delay: 120ms; }
+  html:not(#o) .hero-copy > :nth-child(4) { animation-delay: 180ms; }
+  html:not(#o) .hero-copy > :nth-child(n+5) { animation-delay: 240ms; }
+  html:not(#o) .hero-art { animation: obra-fade 900ms var(--obra-ease) 120ms both; }
+}
+@keyframes obra-rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+@keyframes obra-fade { from { opacity: 0; transform: scale(1.015); } to { opacity: 1; transform: none; } }
+html:not(#o) .demo-banner { background: #1b2230; }
+html:not(#o) .map-placeholder .map-text { background: var(--surface); padding: 12px 16px; border: 1px solid var(--obra-line); }
