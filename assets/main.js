@@ -1669,8 +1669,9 @@
       var photo = card.querySelector('.service-photo');
       var icon = card.querySelector('.service-icon');
       sHero.innerHTML = '';
+      var img = null;
       if (photo){
-        var img = photo.cloneNode(false);
+        img = photo.cloneNode(false);
         img.removeAttribute('loading');
         img.className = '';
         img.sizes = '(max-width: 760px) 100vw, 640px';
@@ -1689,9 +1690,22 @@
       });
       sWa.setAttribute('data-wa', key + '.title');
       sWa.setAttribute('href', waUrl((currentLang === 'es' ? 'Hola, quisiera información sobre ' : 'Hello, I\'d like information about ') + t(key + '.title').toLowerCase() + (currentLang === 'es' ? ' en ' : ' at ') + siteName() + '.'));
-      serviceSheet.open(btn);
-      sText.scrollTop = 0;
+      /* Open only once the photo is decoded, so the sheet never shows an empty
+         frame that then pops; a slow network waits at most 350 ms. */
+      var show = function(){ serviceSheet.open(btn); sText.scrollTop = 0; };
+      if (img && img.decode){
+        var shown = false, go = function(){ if (!shown){ shown = true; show(); } };
+        img.decode().then(go, go);
+        setTimeout(go, 350);
+      } else show();
     };
+    /* Warm the service photos once the browser is idle, so the first open is instant. */
+    var warm = function(){
+      document.querySelectorAll('.service-card[data-service] .service-photo').forEach(function(ph){
+        var i = new Image(); i.sizes = '(max-width: 760px) 100vw, 640px'; if (ph.srcset) i.srcset = ph.srcset; i.src = ph.currentSrc || ph.src;
+      });
+    };
+    if ('requestIdleCallback' in window) requestIdleCallback(warm, { timeout: 3000 }); else setTimeout(warm, 1500);
     var labelServices = function(){
       document.querySelectorAll('.service-card[data-service]').forEach(function(card){
         var btn = card.querySelector('.service-open');

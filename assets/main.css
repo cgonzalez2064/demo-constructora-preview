@@ -1741,3 +1741,26 @@ html:not(#o) .packages-foot p, html:not(#o) .bag-head p.muted { color: var(--tex
 @keyframes obra-fade { from { opacity: 0; transform: scale(1.015); } to { opacity: 1; transform: none; } }
 html:not(#o) .demo-banner { background: #1b2230; }
 html:not(#o) .map-placeholder .map-text { background: var(--surface); padding: 12px 16px; border: 1px solid var(--obra-line); }
+
+/* ==========================================================================
+   Motion pass (v21): one easing and one pace for everything that moves.
+   Sheets are solid (no live blur to repaint while they move), enter with a
+   short rise and a fade, and leave the same way. No Ken Burns. The scrollbar
+   keeps its gutter, so opening a sheet never shifts the page sideways.
+   ========================================================================== */
+html { scrollbar-gutter: stable; }
+html:not(#o) .sheet { backdrop-filter: none; -webkit-backdrop-filter: none; background: var(--surface); will-change: transform, opacity;
+  transition: transform 300ms var(--obra-ease), opacity 220ms var(--obra-ease); }
+html:not(#o) .sheet.is-closing { transition-duration: 200ms, 180ms; }
+html:not(#o) .sheet::backdrop { background: rgba(14, 18, 28, .48); transition: opacity 220ms var(--obra-ease); }
+html:not(#o) .sheet-service .service-hero { background: var(--bg-tint); }
+html:not(#o) .sheet-service.is-open .service-hero img { animation: none; }
+html:not(#o) .sheet-service .service-hero img { transform: none; }
+@media (min-width: 760px) {
+  html:not(#o) .sheet-service { transform: translateY(12px) scale(.985); }
+  html:not(#o) .sheet-service.is-open { transform: none; }
+}
+html:not(#o) .sheet-close { backdrop-filter: none; -webkit-backdrop-filter: none; background: rgba(14, 18, 28, .55); }
+html.js-motion:not(#o) .hero-photo, html.js-motion:not(#o) .hero-photo.p1 img { animation: none; }
+/* Hovers and presses share the same curve. */
+html:not(#o) .btn, html:not(#o) .chip-btn, html:not(#o) .nav-desktop a { transition-timing-function: var(--obra-ease); }
