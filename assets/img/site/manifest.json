@@ -1,0 +1,300 @@
+{
+ "am-cocina": {
+  "h": 1050,
+  "src": "kitchen.jpg",
+  "variants": [
+   800,
+   1400
+  ],
+  "w": 1400
+ },
+ "am-dormitorio": {
+  "h": 1050,
+  "src": "bedroom.jpg",
+  "variants": [
+   800,
+   1400
+  ],
+  "w": 1400
+ },
+ "am-gimnasio": {
+  "h": 1050,
+  "src": "gym.jpg",
+  "variants": [
+   800,
+   1400
+  ],
+  "w": 1400
+ },
+ "am-jardin": {
+  "h": 1050,
+  "src": "garden-playground.jpg",
+  "variants": [
+   800,
+   1400
+  ],
+  "w": 1400
+ },
+ "am-lobby": {
+  "h": 1050,
+  "src": "lobby.jpg",
+  "variants": [
+   800,
+   1400
+  ],
+  "w": 1400
+ },
+ "am-rooftop": {
+  "h": 1050,
+  "src": "rooftop.jpg",
+  "variants": [
+   800,
+   1400
+  ],
+  "w": 1400
+ },
+ "am-sala": {
+  "h": 1050,
+  "src": "living-room.jpg",
+  "variants": [
+   800,
+   1400
+  ],
+  "w": 1400
+ },
+ "destacado-torre": {
+  "h": 1125,
+  "src": "hero-tower.jpg",
+  "variants": [
+   480,
+   900
+  ],
+  "w": 900
+ },
+ "hero-obra": {
+  "h": 750,
+  "src": "hero-site.jpg",
+  "variants": [
+   360,
+   600
+  ],
+  "w": 600
+ },
+ "hero-sala": {
+  "h": 750,
+  "src": "living-room.jpg",
+  "variants": [
+   360,
+   600
+  ],
+  "w": 600
+ },
+ "hero-torre": {
+  "h": 1000,
+  "src": "hero-tower.jpg",
+  "variants": [
+   480,
+   800
+  ],
+  "w": 800
+ },
+ "ing-retrato": {
+  "h": 480,
+  "src": "engineer-portrait.jpg",
+  "variants": [
+   200,
+   480
+  ],
+  "w": 480
+ },
+ "nosotros-equipo": {
+  "h": 933,
+  "src": "team-site.jpg",
+  "variants": [
+   800,
+   1400
+  ],
+  "w": 1400
+ },
+ "perfil-ingeniero": {
+  "h": 1125,
+  "src": "engineer-portrait.jpg",
+  "variants": [
+   480,
+   900
+  ],
+  "w": 900
+ },
+ "pr-alameda": {
+  "h": 480,
+  "src": "garden-playground.jpg",
+  "variants": [
+   200,
+   480
+  ],
+  "w": 480
+ },
+ "pr-bodegas": {
+  "h": 480,
+  "src": "warehouse.jpg",
+  "variants": [
+   200,
+   480
+  ],
+  "w": 480
+ },
+ "pr-casas": {
+  "h": 480,
+  "src": "house-exterior.jpg",
+  "variants": [
+   200,
+   480
+  ],
+  "w": 480
+ },
+ "pr-estructura": {
+  "h": 480,
+  "src": "structure.jpg",
+  "variants": [
+   200,
+   480
+  ],
+  "w": 480
+ },
+ "pr-locales": {
+  "h": 480,
+  "src": "lobby.jpg",
+  "variants": [
+   200,
+   480
+  ],
+  "w": 480
+ },
+ "pr-oficinas": {
+  "h": 480,
+  "src": "office-building.jpg",
+  "variants": [
+   200,
+   480
+  ],
+  "w": 480
+ },
+ "pr-residencia": {
+  "h": 480,
+  "src": "rooftop.jpg",
+  "variants": [
+   200,
+   480
+  ],
+  "w": 480
+ },
+ "pr-torre": {
+  "h": 480,
+  "src": "hero-tower.jpg",
+  "variants": [
+   200,
+   480
+  ],
+  "w": 480
+ },
+ "svc-acabados": {
+  "h": 667,
+  "src": "kitchen.jpg",
+  "variants": [
+   600,
+   800,
+   1000
+  ],
+  "w": 1000
+ },
+ "svc-desarrollo": {
+  "h": 667,
+  "src": "aerial-development.jpg",
+  "variants": [
+   600,
+   800,
+   1000
+  ],
+  "w": 1000
+ },
+ "svc-diseno": {
+  "h": 667,
+  "src": "hero-plans.jpg",
+  "variants": [
+   600,
+   800,
+   1000
+  ],
+  "w": 1000
+ },
+ "svc-industrial": {
+  "h": 667,
+  "src": "warehouse.jpg",
+  "variants": [
+   600,
+   800,
+   1000
+  ],
+  "w": 1000
+ },
+ "svc-instalaciones": {
+  "h": 667,
+  "src": "installations.jpg",
+  "variants": [
+   600,
+   800,
+   1000
+  ],
+  "w": 1000
+ },
+ "svc-mantenimiento": {
+  "h": 667,
+  "src": "lobby.jpg",
+  "variants": [
+   600,
+   800,
+   1000
+  ],
+  "w": 1000
+ },
+ "svc-obra-gris": {
+  "h": 667,
+  "src": "structure.jpg",
+  "variants": [
+   600,
+   800,
+   1000
+  ],
+  "w": 1000
+ },
+ "svc-remodelacion": {
+  "h": 667,
+  "src": "remodel.jpg",
+  "variants": [
+   600,
+   800,
+   1000
+  ],
+  "w": 1000
+ },
+ "svc-supervision": {
+  "h": 667,
+  "src": "team-site.jpg",
+  "variants": [
+   600,
+   800,
+   1000
+  ],
+  "w": 1000
+ },
+ "svc-vivienda": {
+  "h": 667,
+  "src": "house-exterior.jpg",
+  "variants": [
+   600,
+   800,
+   1000
+  ],
+  "w": 1000
+ }
+}
