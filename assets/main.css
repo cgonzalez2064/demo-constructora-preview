@@ -1764,3 +1764,6 @@ html:not(#o) .sheet-close { backdrop-filter: none; -webkit-backdrop-filter: none
 html.js-motion:not(#o) .hero-photo, html.js-motion:not(#o) .hero-photo.p1 img { animation: none; }
 /* Hovers and presses share the same curve. */
 html:not(#o) .btn, html:not(#o) .chip-btn, html:not(#o) .nav-desktop a { transition-timing-function: var(--obra-ease); }
+/* Live demo strip: a way back to the demos directory. */
+html:not(#o) .demo-strip { justify-content: flex-start; padding-inline: max(16px, calc((100vw - 1200px) / 2)); }
+html:not(#o) .demo-banner .demo-home + .demo-home { margin-left: 4px; padding-left: 10px; border-left: 1px solid rgba(255, 255, 255, .3); }
