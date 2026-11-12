@@ -1,0 +1,3 @@
+Inter Display (subset): Copyright 2016-2023 The Inter Project Authors. SIL Open Font License 1.1.
+JetBrains Mono (subset): Copyright 2020 The JetBrains Mono Project Authors. SIL Open Font License 1.1.
+https://openfontlicense.org

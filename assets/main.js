@@ -45,8 +45,8 @@
       "nav.contact": "Contacto",
       "nav.emergency": "Llamar",
       "hero.eyebrow": "Desarrollo inmobiliario y construcción",
-      "hero.title": "Espacios bien construidos para <em>vivir</em> e invertir",
-      "hero.desc": "Diseñamos, construimos y vendemos proyectos residenciales en la Ciudad de Guatemala, con planificación clara, avance de obra verificable y acompañamiento en su financiamiento.",
+      "hero.title": "Desarrollo y construcción de <em>vivienda</em> en Guatemala",
+      "hero.desc": "Apartamentos y casas en Zona 15, Zona 16 y Carretera a El Salvador. Trabajamos con presupuestos detallados, informes mensuales de avance y acompañamiento en su crédito.",
       "hero.cta1": "Agendar una visita",
       "hero.cta2": "Escribir por WhatsApp",
       "hero.status": "Sala de ventas abierta de lunes a sábado",
@@ -63,8 +63,8 @@
       "stat2.value": "34",
       "stat2.label": "proyectos entregados",
       "stat3.value": "1,250",
-      "stat3.label": "familias en su nuevo hogar",
-      "stat4.value": "4",
+      "stat3.label": "unidades entregadas",
+      "stat4.value": "5",
       "stat4.label": "proyectos en venta",
       "services.eyebrow": "Servicios",
       "services.title": "Del diseño a la entrega de llaves",
@@ -75,7 +75,7 @@
       "services.call": "Llamar",
       "services.close": "Cerrar",
       "service1.title": "Desarrollo inmobiliario",
-      "service1.desc": "Proyectos de apartamentos y casas en ubicaciones con plusvalía, con planes de pago y acompañamiento en el crédito.",
+      "service1.desc": "Apartamentos y casas en zonas residenciales de la ciudad, con planes de pago y acompañamiento en el crédito.",
       "service1.more": "Desarrollamos proyectos residenciales completos: estudio de mercado, diseño, licencias, construcción, venta y administración inicial.\n\nCada proyecto se comercializa con precios publicados, planes de enganche en cuotas y precalificación con bancos aliados.\n\nAl recibir su unidad, cuenta con un manual del propietario y un período de garantía por escrito.",
       "service2.title": "Construcción residencial",
       "service2.desc": "Construcción de viviendas unifamiliares en su terreno, con presupuesto cerrado y cronograma de obra.",
@@ -91,25 +91,25 @@
       "service5.more": "Desarrollamos el diseño de su proyecto desde el anteproyecto hasta los planos constructivos, con visualizaciones 3D para que conozca el resultado antes de construir.\n\nEl juego de planos incluye arquitectura, estructura e instalaciones eléctricas, hidráulicas y sanitarias.\n\nLos planos quedan listos para el trámite de licencia y para cotizar la obra.",
       "service6.title": "Planificación y licencias",
       "service6.desc": "Presupuestos por partidas, cronogramas y gestión de licencias municipales de construcción.",
-      "service6.more": "Un buen proyecto empieza con un presupuesto realista. Elaboramos presupuestos por partidas, cronogramas y flujos de caja para la obra.\n\nGestionamos la licencia de construcción ante la municipalidad y los requisitos de las entidades que correspondan.\n\nCon esta información usted puede solicitar financiamiento o comparar ofertas con criterio.",
+      "service6.more": "Elaboramos presupuestos por partidas, cronogramas y flujos de caja para la obra.\n\nGestionamos la licencia de construcción ante la municipalidad y los requisitos de las entidades que correspondan.\n\nCon esta información usted puede solicitar financiamiento o comparar ofertas.",
       "service7.title": "Supervisión de obra",
       "service7.desc": "Supervisión técnica independiente, control de calidad y reportes de avance para propietarios e inversionistas.",
       "service7.more": "Si ya tiene un contratista, le ofrecemos supervisión técnica independiente para verificar que la obra cumpla con los planos, las especificaciones y el presupuesto.\n\nRealizamos visitas programadas, control de calidad de materiales y estimaciones de avance para autorizar pagos.\n\nRecibe reportes con fotografías y recomendaciones claras.",
       "service8.title": "Obra gris",
       "service8.desc": "Cimentación, estructura, muros y losas, ejecutados con control de calidad de concreto y acero.",
-      "service8.more": "Ejecutamos la obra gris de su proyecto: cimentación, columnas, vigas, muros y losas.\n\nControlamos la calidad del concreto con pruebas de resistencia y verificamos el armado antes de cada fundición.\n\nEs la base de un edificio seguro y duradero.",
+      "service8.more": "Ejecutamos la obra gris de su proyecto: cimentación, columnas, vigas, muros y losas.\n\nControlamos la calidad del concreto con pruebas de resistencia y verificamos el armado antes de cada fundición.",
       "service9.title": "Acabados e interiores",
       "service9.desc": "Pisos, cielos, carpintería, cocinas y baños, con muestras de materiales y precios por opción.",
-      "service9.more": "Los acabados definen cómo se vive un espacio. Le presentamos muestras de pisos, revestimientos, carpintería y grifería con su precio por opción.\n\nCoordinamos a los instaladores especializados y revisamos cada detalle antes de la entrega.\n\nPuede elegir paquetes de acabados o personalizarlos.",
+      "service9.more": "Le presentamos muestras de pisos, revestimientos, carpintería y grifería con su precio por opción.\n\nCoordinamos a los instaladores y revisamos los acabados antes de la entrega.\n\nPuede elegir un paquete de acabados o personalizarlo.",
       "service10.title": "Instalaciones",
       "service10.desc": "Instalaciones eléctricas, hidráulicas, sanitarias y de iluminación, con planos actualizados al finalizar.",
       "service10.more": "Diseñamos y ejecutamos instalaciones eléctricas, hidráulicas, sanitarias y de iluminación para vivienda y comercio.\n\nRealizamos pruebas de presión y de carga antes de cerrar muros y cielos.\n\nAl finalizar, entregamos los planos de instalaciones tal como quedaron construidas.",
       "service11.title": "Mantenimiento de edificios",
       "service11.desc": "Mantenimiento preventivo y correctivo para condominios, oficinas y residencias.",
-      "service11.more": "Ofrecemos planes de mantenimiento preventivo para condominios, oficinas y residencias: impermeabilización, pintura, instalaciones y áreas comunes.\n\nAtendemos también reparaciones puntuales con diagnóstico y cotización previa.\n\nUn mantenimiento oportuno protege el valor de su inmueble.",
+      "service11.more": "Ofrecemos planes de mantenimiento preventivo para condominios, oficinas y residencias: impermeabilización, pintura, instalaciones y áreas comunes.\n\nAtendemos también reparaciones puntuales, con diagnóstico y cotización previa.",
       "maternity.eyebrow": "Proyecto destacado",
       "maternity.title": "Torre Ceiba, <em>apartamentos</em> en Zona 15",
-      "maternity.desc": "Dieciséis niveles con apartamentos de 2 y 3 habitaciones, rooftop social y vista hacia el valle. La estructura está terminada y la entrega está programada para diciembre del próximo año. Reserve hoy con enganche en cuotas.",
+      "maternity.desc": "Dieciséis niveles con apartamentos de 2 y 3 habitaciones, terraza social y vista hacia el valle. La estructura está terminada y la entrega está programada para diciembre de 2027. El enganche puede pagarse en cuotas.",
       "maternity.cta": "Solicitar información",
       "projects.cta": "Descargar brochure",
       "projects.cta_aria": "Descargar el brochure del proyecto en PDF",
@@ -140,7 +140,7 @@
       "about.desc": "Nivela es una empresa guatemalteca de desarrollo inmobiliario y construcción. Desde la planificación hasta la entrega de llaves, trabajamos con presupuestos detallados, cronogramas realistas e informes de avance, para que cada cliente sepa en qué etapa está su proyecto y qué sigue. Nuestro equipo de ingenieros y arquitectos supervisa cada obra en persona.",
       "about.art_caption": "Planificación, construcción y entrega con un solo equipo responsable.",
       "about.mission_title": "Nuestro propósito",
-      "about.mission_desc": "Construir espacios seguros, funcionales y duraderos, que mejoren la vida de quienes los habitan y conserven su valor en el tiempo.",
+      "about.mission_desc": "Construir espacios seguros, funcionales y duraderos, con la calidad, el costo y el plazo acordados.",
       "about.vision_title": "Nuestro compromiso",
       "about.vision_desc": "Cumplir lo pactado en plazo, costo y calidad, informar con claridad en cada etapa y responder por nuestro trabajo después de la entrega.",
       "why.title": "Por qué elegirnos",
@@ -151,7 +151,7 @@
       "why5": "Garantía por escrito",
       "why6": "Entrega puntual",
       "projects.eyebrow": "Amenidades",
-      "projects.title": "Espacios para disfrutar en comunidad",
+      "projects.title": "Áreas comunes",
       "projects.desc": "Nuestros desarrollos incluyen áreas comunes pensadas para el día a día de las familias, con mantenimiento a cargo de la administración.",
       "projects.view_details": "Ver fotos",
       "proj1.tag": "Área social",
@@ -184,7 +184,7 @@
       "amen5.title": "Pet friendly",
       "amen5.desc": "Área para mascotas y reglamento que las admite.",
       "amen6.title": "Elevadores",
-      "amen6.desc": "Elevadores de última generación con respaldo eléctrico.",
+      "amen6.desc": "Elevadores con respaldo eléctrico.",
       "amen7.title": "Coworking",
       "amen7.desc": "Espacio de trabajo con internet para residentes.",
       "amen8.title": "Paneles solares",
@@ -192,7 +192,7 @@
       "amen9.title": "Bodega privada",
       "amen9.desc": "Bodegas disponibles según el modelo de apartamento.",
       "amen10.title": "Fibra óptica",
-      "amen10.desc": "Preparación para internet de alta velocidad.",
+      "amen10.desc": "Preparación para fibra óptica.",
       "amen11.title": "Administración",
       "amen11.desc": "Administración profesional desde la entrega.",
       "amen12.title": "Accesibilidad",
@@ -206,7 +206,7 @@
       "projects.modal_photo_alt": "Foto {n} de {title}",
       "projects.modal_placeholder_note": "Aún no hay fotografías de este espacio.",
       "process.eyebrow": "Cómo comprar",
-      "process.title": "Su nuevo hogar en cuatro pasos",
+      "process.title": "Proceso de compra",
       "process1.title": "Visite la sala de ventas",
       "process1.desc": "Conozca el apartamento modelo, los planos y los acabados, y elija la unidad que le conviene.",
       "process2.title": "Reserve su unidad",
@@ -366,7 +366,7 @@
       "a11y.links": "Subrayar enlaces",
       "a11y.spacing": "Texto más espaciado",
       "a11y.reset": "Restablecer",
-      "footer.about_desc": "Desarrollo inmobiliario, construcción y remodelación en la Ciudad de Guatemala, con planificación clara y supervisión profesional.",
+      "footer.about_desc": "Desarrollo inmobiliario, construcción y remodelación en la Ciudad de Guatemala.",
       "footer.links_heading": "Navegación",
       "footer.services_heading": "Servicios",
       "footer.contact_heading": "Contacto",
@@ -396,7 +396,7 @@
       "appt.title": "",
       "appt.desc": "Elija el proyecto y la fecha que prefiere. Le llamaremos para confirmar la hora de su visita a la sala de ventas o a la obra.",
       "appt.submit": "Solicitar visita",
-      "appt.ok": "¡Gracias! Recibimos su solicitud. Le llamaremos para confirmar la fecha y la hora de su visita.",
+      "appt.ok": "Recibimos su solicitud. Le llamaremos para confirmar la fecha y la hora de su visita.",
       "appt.specialty_label": "Tipo de proyecto",
       "appt.doctor_label": "Proyecto",
       "appt.doctor_any": "Cualquier proyecto",
@@ -412,7 +412,7 @@
       "req.health_notice": "Por su privacidad, no incluya números de cuenta ni datos bancarios: solo lo necesario para atender su solicitud.",
       "pkg.eyebrow": "Modelos",
       "pkg.title": "Modelos y precios de referencia",
-      "pkg.desc": "Elija el modelo que mejor se adapta a su familia. Todos incluyen acabados de primera y parqueo.",
+      "pkg.desc": "Precios de referencia de los modelos disponibles en Torre Ceiba. Todos incluyen parqueo.",
       "pkg.from": "Desde",
       "pkg.cta": "Solicitar cotización",
       "pkg.note": "Precios de referencia en quetzales, sujetos a disponibilidad y cambios sin previo aviso. Le confirmamos el precio vigente por escrito.",
@@ -420,21 +420,21 @@
       "pkg.pdf": "Descargar lista de precios en PDF",
       "comp.title": "",
       "labprep.eyebrow": "Avance de obra",
-      "labprep.title": "Así avanzan nuestros proyectos",
+      "labprep.title": "Avance de obra",
       "labprep.desc": "Actualizamos el avance de cada obra todos los meses. Los compradores reciben además un informe con fotografías.",
       "labprep.time": "Avance",
       "inshow.title": "",
       "insck.title": "",
       "insck.desc": "Indíquenos el banco de su preferencia y su ingreso mensual aproximado. Un asesor le contactará con una estimación sin compromiso.",
       "insck.submit": "Solicitar precalificación",
-      "insck.ok": "¡Gracias! Un asesor revisará su información y le llamará con una estimación de crédito.",
+      "insck.ok": "Recibimos su información. Un asesor le llamará con una estimación de crédito.",
       "insck.insurer_label": "Banco de preferencia",
       "insck.other": "Otro banco",
       "insck.policy_label": "Ingreso familiar mensual (Q)",
       "insck.holder_label": "Nombre del solicitante",
       "insck.service_label": "Proyecto de interés",
       "reviews.eyebrow": "Testimonios",
-      "reviews.title": "Lo que dicen nuestros propietarios",
+      "reviews.title": "Opiniones de propietarios",
       "reviews.based": "Calificación promedio (ejemplo)",
       "reviews.cta": "Deje su opinión en Google",
       "reviews.stars_aria": "{n} de 5 estrellas",
@@ -631,8 +631,8 @@
       "nav.contact": "Contact",
       "nav.emergency": "Call",
       "hero.eyebrow": "Real-estate development and construction",
-      "hero.title": "Well-built spaces to <em>live</em> in and invest",
-      "hero.desc": "We design, build and sell residential projects in Guatemala City, with clear planning, verifiable construction progress and support with your financing.",
+      "hero.title": "<em>Housing</em> development and construction in Guatemala",
+      "hero.desc": "Apartments and houses in Zona 15, Zona 16 and Carretera a El Salvador. We work with detailed budgets, monthly progress reports and support with your mortgage.",
       "hero.cta1": "Book a visit",
       "hero.cta2": "Message us on WhatsApp",
       "hero.status": "Sales office open Monday to Saturday",
@@ -649,8 +649,8 @@
       "stat2.value": "34",
       "stat2.label": "projects delivered",
       "stat3.value": "1,250",
-      "stat3.label": "families in their new home",
-      "stat4.value": "4",
+      "stat3.label": "units delivered",
+      "stat4.value": "5",
       "stat4.label": "projects for sale",
       "services.eyebrow": "Services",
       "services.title": "From design to key handover",
@@ -661,7 +661,7 @@
       "services.call": "Call",
       "services.close": "Close",
       "service1.title": "Real-estate development",
-      "service1.desc": "Apartment and house projects in locations with growing value, with payment plans and support with your mortgage.",
+      "service1.desc": "Apartments and houses in residential areas of the city, with payment plans and support with your mortgage.",
       "service1.more": "We develop complete residential projects: market study, design, permits, construction, sales and initial administration.\n\nEvery project is sold with published prices, down-payment instalment plans and pre-qualification with partner banks.\n\nWhen you receive your unit, you get an owner's manual and a written warranty period.",
       "service2.title": "Residential construction",
       "service2.desc": "Single-family homes built on your land, with a fixed budget and a construction schedule.",
@@ -677,25 +677,25 @@
       "service5.more": "We develop your project's design from the preliminary stage to construction drawings, with 3D renderings so you know the result before building.\n\nThe drawing set includes architecture, structure and electrical, water and drainage installations.\n\nThe drawings are ready for the permit process and for pricing the work.",
       "service6.title": "Planning and permits",
       "service6.desc": "Itemised budgets, schedules and municipal building permit management.",
-      "service6.more": "A good project starts with a realistic budget. We prepare itemised budgets, schedules and cash-flow plans for the work.\n\nWe manage the building permit with the municipality and the requirements of any other authorities involved.\n\nWith this information you can apply for financing or compare offers with confidence.",
+      "service6.more": "We prepare itemised budgets, schedules and cash-flow plans for the work.\n\nWe manage the building permit with the municipality and the requirements of any other authorities involved.\n\nWith this information you can apply for financing or compare offers.",
       "service7.title": "Construction supervision",
       "service7.desc": "Independent technical supervision, quality control and progress reports for owners and investors.",
       "service7.more": "If you already have a contractor, we offer independent technical supervision to check that the work meets the drawings, specifications and budget.\n\nWe make scheduled visits, check material quality and estimate progress to approve payments.\n\nYou receive reports with photos and clear recommendations.",
       "service8.title": "Structural shell",
       "service8.desc": "Foundations, structure, walls and slabs, built with concrete and steel quality control.",
-      "service8.more": "We build your project's structural shell: foundations, columns, beams, walls and slabs.\n\nWe control concrete quality with strength tests and check the reinforcement before every pour.\n\nIt is the foundation of a safe, lasting building.",
+      "service8.more": "We build your project's structural shell: foundations, columns, beams, walls and slabs.\n\nWe control concrete quality with strength tests and check the reinforcement before every pour.",
       "service9.title": "Finishes and interiors",
       "service9.desc": "Floors, ceilings, joinery, kitchens and bathrooms, with material samples and prices per option.",
-      "service9.more": "Finishes define how a space feels. We show you samples of flooring, cladding, joinery and fixtures with a price for each option.\n\nWe coordinate the specialist installers and check every detail before handover.\n\nYou can choose finish packages or customise them.",
+      "service9.more": "We show you samples of flooring, cladding, joinery and fittings with the price of each option.\n\nWe coordinate the installers and check the finishes before handover.\n\nYou can choose a finishes package or customise it.",
       "service10.title": "Building services",
       "service10.desc": "Electrical, water, drainage and lighting installations, with as-built drawings at the end.",
       "service10.more": "We design and install electrical, water, drainage and lighting systems for homes and businesses.\n\nWe run pressure and load tests before closing walls and ceilings.\n\nAt the end, we hand over as-built drawings of the installations.",
       "service11.title": "Building maintenance",
       "service11.desc": "Preventive and corrective maintenance for condominiums, offices and homes.",
-      "service11.more": "We offer preventive maintenance plans for condominiums, offices and homes: waterproofing, painting, installations and common areas.\n\nWe also handle one-off repairs with a prior diagnosis and quote.\n\nTimely maintenance protects the value of your property.",
+      "service11.more": "We offer preventive maintenance plans for condominiums, offices and homes: waterproofing, painting, installations and common areas.\n\nWe also handle one-off repairs, with a prior assessment and quote.",
       "maternity.eyebrow": "Featured project",
       "maternity.title": "Torre Ceiba, <em>apartments</em> in Zona 15",
-      "maternity.desc": "Sixteen floors with 2 and 3-bedroom apartments, a social rooftop and views over the valley. The structure is finished and handover is scheduled for December next year. Reserve today with a down payment in instalments.",
+      "maternity.desc": "Sixteen floors of 2 and 3-bedroom apartments, a social roof terrace and valley views. The structure is finished and handover is scheduled for December 2027. The down payment can be paid in instalments.",
       "maternity.cta": "Request information",
       "projects.cta": "Download brochure",
       "projects.cta_aria": "Download the project brochure as a PDF",
@@ -726,7 +726,7 @@
       "about.desc": "Nivela is a Guatemalan real-estate development and construction company. From planning to key handover, we work with detailed budgets, realistic schedules and progress reports, so every client knows what stage their project is at and what comes next. Our team of engineers and architects supervises every site in person.",
       "about.art_caption": "Planning, construction and handover with one accountable team.",
       "about.mission_title": "Our purpose",
-      "about.mission_desc": "To build safe, functional and lasting spaces that improve the lives of the people who use them and keep their value over time.",
+      "about.mission_desc": "To build safe, functional and durable spaces, with the agreed quality, cost and schedule.",
       "about.vision_title": "Our commitment",
       "about.vision_desc": "To deliver what we agree on time, cost and quality, to report clearly at every stage and to stand behind our work after handover.",
       "why.title": "Why choose us",
@@ -737,7 +737,7 @@
       "why5": "Written warranty",
       "why6": "On-time handover",
       "projects.eyebrow": "Amenities",
-      "projects.title": "Spaces to enjoy as a community",
+      "projects.title": "Common areas",
       "projects.desc": "Our developments include common areas designed for families' everyday life, maintained by the building administration.",
       "projects.view_details": "View photos",
       "proj1.tag": "Social area",
@@ -770,7 +770,7 @@
       "amen5.title": "Pet friendly",
       "amen5.desc": "Pet area and rules that welcome pets.",
       "amen6.title": "Lifts",
-      "amen6.desc": "Modern lifts with backup power.",
+      "amen6.desc": "Lifts with backup power.",
       "amen7.title": "Coworking",
       "amen7.desc": "Workspace with internet for residents.",
       "amen8.title": "Solar panels",
@@ -778,7 +778,7 @@
       "amen9.title": "Private storage",
       "amen9.desc": "Storage rooms available depending on the model.",
       "amen10.title": "Fibre internet",
-      "amen10.desc": "Ready for high-speed internet.",
+      "amen10.desc": "Ready for fibre-optic internet.",
       "amen11.title": "Administration",
       "amen11.desc": "Professional administration from handover.",
       "amen12.title": "Accessibility",
@@ -792,7 +792,7 @@
       "projects.modal_photo_alt": "Photo {n} of {title}",
       "projects.modal_placeholder_note": "There are no photos of this space yet.",
       "process.eyebrow": "How to buy",
-      "process.title": "Your new home in four steps",
+      "process.title": "The buying process",
       "process1.title": "Visit the sales office",
       "process1.desc": "See the show apartment, the floor plans and the finishes, and choose the unit that suits you.",
       "process2.title": "Reserve your unit",
@@ -952,7 +952,7 @@
       "a11y.links": "Underline links",
       "a11y.spacing": "More text spacing",
       "a11y.reset": "Reset",
-      "footer.about_desc": "Real-estate development, construction and remodelling in Guatemala City, with clear planning and professional supervision.",
+      "footer.about_desc": "Real-estate development, construction and remodelling in Guatemala City.",
       "footer.links_heading": "Navigation",
       "footer.services_heading": "Services",
       "footer.contact_heading": "Contact",
@@ -982,7 +982,7 @@
       "appt.title": "",
       "appt.desc": "Choose the project and the date you prefer. We will call you to confirm the time of your visit to the sales office or the site.",
       "appt.submit": "Request a visit",
-      "appt.ok": "Thank you! We received your request. We will call you to confirm the date and time of your visit.",
+      "appt.ok": "We have received your request. We will call you to confirm the date and time of your visit.",
       "appt.specialty_label": "Project type",
       "appt.doctor_label": "Project",
       "appt.doctor_any": "Any project",
@@ -998,7 +998,7 @@
       "req.health_notice": "For your privacy, do not include account numbers or bank details: only what we need to handle your request.",
       "pkg.eyebrow": "Models",
       "pkg.title": "Models and reference prices",
-      "pkg.desc": "Choose the model that best suits your family. All include high-quality finishes and parking.",
+      "pkg.desc": "Reference prices for the models available at Torre Ceiba. All include parking.",
       "pkg.from": "From",
       "pkg.cta": "Request a quote",
       "pkg.note": "Reference prices in quetzales, subject to availability and change without notice. We confirm the current price in writing.",
@@ -1006,21 +1006,21 @@
       "pkg.pdf": "Download the price list as a PDF",
       "comp.title": "",
       "labprep.eyebrow": "Construction progress",
-      "labprep.title": "How our projects are progressing",
+      "labprep.title": "Construction progress",
       "labprep.desc": "We update each site's progress every month. Buyers also receive a report with photos.",
       "labprep.time": "Progress",
       "inshow.title": "",
       "insck.title": "",
       "insck.desc": "Tell us your preferred bank and approximate monthly income. An adviser will contact you with a no-obligation estimate.",
       "insck.submit": "Request pre-qualification",
-      "insck.ok": "Thank you! An adviser will review your information and call you with a loan estimate.",
+      "insck.ok": "We have received your information. An adviser will call you with a loan estimate.",
       "insck.insurer_label": "Preferred bank",
       "insck.other": "Another bank",
       "insck.policy_label": "Monthly household income (Q)",
       "insck.holder_label": "Applicant's name",
       "insck.service_label": "Project of interest",
       "reviews.eyebrow": "Testimonials",
-      "reviews.title": "What our owners say",
+      "reviews.title": "Owner reviews",
       "reviews.based": "Average rating (example)",
       "reviews.cta": "Leave a review on Google",
       "reviews.stars_aria": "{n} out of 5 stars",
@@ -1511,7 +1511,12 @@
         var on = tb === tab;
         tb.setAttribute('aria-selected', String(on));
         tb.tabIndex = on ? 0 : -1;
-        document.getElementById(tb.getAttribute('aria-controls')).hidden = !on;
+        var panel = document.getElementById(tb.getAttribute('aria-controls'));
+        var was = !panel.hidden;
+        panel.hidden = !on;
+        if (on && !was && panel.animate && !reduceMotion){
+          panel.animate([{ opacity: 0, transform: 'translateY(8px)' }, { opacity: 1, transform: 'none' }], { duration: 360, easing: 'cubic-bezier(.22, 1, .36, 1)' });
+        }
       });
       moveIndicator(tab);
       if (focus) tab.focus();
@@ -2260,17 +2265,76 @@
     var docCount = document.getElementById('docCount');
     var activeSpec = '';
     var docTimer = null;
+    /* Filtering animates like a physical rearrangement (FLIP): cards that stay
+       glide from where they are on screen right now, leaving cards fade and
+       shrink in place, arriving cards rise in. Every pass starts from the
+       live (presentation) positions, so a new tap mid-motion redirects
+       smoothly instead of jumping. Reduced motion: an instant swap. */
+    var flipEase = 'cubic-bezier(.22, 1, .36, 1)';
+    var canAnimate = !!(docGrid.animate) && !reduceMotion;
+    var leaving = [];
     var filterDoctors = function(announce){
       var q = fold(docSearch ? docSearch.value : '');
-      var shown = 0;
-      Array.prototype.forEach.call(docGrid.children, function(card){
+      var cards = Array.prototype.slice.call(docGrid.children);
+      var match = function(card){
         var okSpec = !activeSpec || card.getAttribute('data-spec') === activeSpec;
         var okText = !q || q.split(' ').every(function(w){ return (card.getAttribute('data-search') || '').indexOf(w) !== -1; });
-        card.hidden = !(okSpec && okText);
-        if (!card.hidden){ shown++; card.classList.add('in'); }
-      });
+        return okSpec && okText;
+      };
+      var shown = cards.filter(match).length;
       if (docEmpty) docEmpty.hidden = shown !== 0;
       if (docCount && announce) docCount.textContent = shown === 1 ? t('doctors.result1') : fmt(t('doctors.results'), { n: shown });
+      if (!canAnimate){
+        cards.forEach(function(card){ card.hidden = !match(card); if (!card.hidden) card.classList.add('in'); });
+        return;
+      }
+      /* First: live positions of everything visible (includes running transforms). */
+      leaving.forEach(function(card){ card.hidden = true; card.style.position = card.style.top = card.style.left = card.style.width = ''; });
+      leaving = [];
+      var first = new Map();
+      cards.forEach(function(card){ if (!card.hidden) first.set(card, card.getBoundingClientRect()); });
+      cards.forEach(function(card){ if (card.getAnimations) card.getAnimations().forEach(function(an){ an.cancel(); }); });
+      var gridBox = docGrid.getBoundingClientRect();
+      /* Last: apply the new state. Leaving cards stay visible, lifted out of the flow. */
+      cards.forEach(function(card){
+        var want = match(card);
+        if (!want && first.has(card)){
+          var r = first.get(card);
+          card.style.position = 'absolute';
+          card.style.top = (r.top - gridBox.top) + 'px';
+          card.style.left = (r.left - gridBox.left) + 'px';
+          card.style.width = r.width + 'px';
+          leaving.push(card);
+        } else {
+          card.hidden = !want;
+        }
+      });
+      docGrid.style.position = 'relative';
+      /* Invert + play. */
+      cards.forEach(function(card){
+        if (leaving.indexOf(card) !== -1){
+          card.animate([{ opacity: 1, transform: 'scale(1)' }, { opacity: 0, transform: 'scale(.94)' }], { duration: 220, easing: 'ease-out', fill: 'forwards' })
+            .onfinish = function(){
+              if (leaving.indexOf(card) === -1) return;
+              card.hidden = true;
+              card.style.position = card.style.top = card.style.left = card.style.width = '';
+              leaving.splice(leaving.indexOf(card), 1);
+            };
+          return;
+        }
+        if (card.hidden) return;
+        card.classList.add('in');
+        var r0 = first.get(card);
+        if (r0){
+          var r1 = card.getBoundingClientRect();
+          var dx = r0.left - r1.left, dy = r0.top - r1.top;
+          if (Math.abs(dx) > 0.5 || Math.abs(dy) > 0.5){
+            card.animate([{ transform: 'translate(' + dx + 'px,' + dy + 'px)' }, { transform: 'none' }], { duration: 520, easing: flipEase });
+          }
+        } else {
+          card.animate([{ opacity: 0, transform: 'translateY(14px) scale(.97)' }, { opacity: 1, transform: 'none' }], { duration: 460, delay: 90, easing: flipEase, fill: 'backwards' });
+        }
+      });
     };
     if (docSearch) docSearch.addEventListener('input', function(){
       clearTimeout(docTimer);
